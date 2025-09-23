@@ -1,6 +1,6 @@
 # 🚒 Firefighters Management System
 
-The Firefighters Management System aims to manage firefighters and emergency incidents, ensuring efficient use of resources and complete record-keeping of all operations.
+The Firefighters Management System aims to manage firefighters and emergency incidents, ensuring efficient use of resources.
 
 > **Academic Context**  
 > This application was developed as part of the Object-Oriented Programming course in the second year of the Computer Systems Engineering degree (Licenciatura em Engenharia de Sistemas Informáticos) at the Instituto Politécnico do Cávado e do Ave (IPCA).
