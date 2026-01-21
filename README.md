@@ -1,4 +1,4 @@
-# 🚒 Firefighters Management System
+# Firefighters Management System
 
 The Firefighters Management System aims to manage firefighters and emergency incidents, ensuring efficient use of resources.
 
@@ -7,7 +7,7 @@ The Firefighters Management System aims to manage firefighters and emergency inc
 
 ---
 
-# 🎯 Project Goals
+# Project Goals
 
 - Build a robust and secure system for firefighter operational management.
 
@@ -19,7 +19,7 @@ The Firefighters Management System aims to manage firefighters and emergency inc
 
 ---
 
-## 📌 Main Features
+## Main Features
 
 - Firefighters Management
 
